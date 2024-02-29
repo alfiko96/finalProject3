@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>itemName</name>
+   <tag></tag>
+   <elementGuidId>bea6c70e-8690-4c8d-93d4-a52c77f52692</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CollectionAjaxContent']/div/div[7]/div/a/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.grid-product__link.quick-product__btn.js-screen-open-product-7102071996607.js-no-transition > div.grid-product__meta > div.grid-product__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ac841dde-c03d-4dca-b69a-803ada3a32db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid-product__title</value>
+      <webElementGuid>e450d5ab-be1c-43e7-85bc-be0bc3086b74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VTG V.2 HI Black WS</value>
+      <webElementGuid>aaa056fd-1d51-4b66-b0dd-f6ccc6e30991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CollectionAjaxContent&quot;)/div[@class=&quot;grid grid--uniform grid--scattered-large-3 grid--scattered-small-1&quot;]/div[@class=&quot;grid__item grid-product grid-product--padded medium-up--one-third aos-init aos-animate&quot;]/div[@class=&quot;grid-product__content&quot;]/a[@class=&quot;grid-product__link quick-product__btn js-screen-open-product-7102071996607 js-no-transition&quot;]/div[@class=&quot;grid-product__meta&quot;]/div[@class=&quot;grid-product__title&quot;]</value>
+      <webElementGuid>1e6e76c7-696e-4ed4-a4fd-f2dbcbcadc8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CollectionAjaxContent']/div/div[7]/div/a/div[2]/div</value>
+      <webElementGuid>bde09dc5-7cd8-4180-9923-e959865fc66c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 429.000,00'])[1]/preceding::div[1]</value>
+      <webElementGuid>7389da6c-ad7d-4ce0-ad9a-b032d056cb76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VTG V.2 HI Black WS']/parent::*</value>
+      <webElementGuid>36eda238-887f-48b5-a527-87460d9795ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/a/div[2]/div</value>
+      <webElementGuid>beb794e5-25a4-4c3c-89e3-1faa4fc6b872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'VTG V.2 HI Black WS' or . = 'VTG V.2 HI Black WS')]</value>
+      <webElementGuid>4243df05-4e81-41c2-b0d2-5825e85e94fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

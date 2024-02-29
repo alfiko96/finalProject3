@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add to cart</name>
+   <tag></tag>
+   <elementGuidId>30fd8e0c-c921-49fb-92c2-44be85b0e7ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='add']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;add&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8e609db6-530d-4f2e-ab17-dca0dc4ce19c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>412390b1-21ee-48ec-8052-00ca083fc53a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>add</value>
+      <webElementGuid>2c53da8b-6320-4d80-afa0-aabbad2fcc6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn--full add-to-cart btn--tertiary</value>
+      <webElementGuid>72442ebf-9a9a-4429-a383-8b32e724c6c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      Add to cart
+    </value>
+      <webElementGuid>ae72377c-375e-4514-80d9-19531f8e26e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AddToCartForm-7102071996607-modal&quot;)/div[@class=&quot;payment-buttons&quot;]/button[@class=&quot;btn btn--full add-to-cart btn--tertiary&quot;]</value>
+      <webElementGuid>bd813897-4014-4505-863f-a6bf047fd619</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='add']</value>
+      <webElementGuid>a62bb7ea-472d-41f9-aa32-74c5d88feed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='AddToCartForm-7102071996607-modal']/div/button</value>
+      <webElementGuid>0e1430b4-d2f0-41e6-bbb6-d744d22dbbf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Style'])[2]/following::button[1]</value>
+      <webElementGuid>2ef69f29-d0da-4b56-9610-965d1d567dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Style'])[1]/following::button[1]</value>
+      <webElementGuid>ad336d13-b587-49bb-a67f-aa534ab2483c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy it now'])[1]/preceding::button[1]</value>
+      <webElementGuid>f249ad5f-b88c-4b14-ba75-dedf5d386201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/form/div/button</value>
+      <webElementGuid>03489963-9aab-4901-986d-ef98288e460a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'add' and (text() = '
+      Add to cart
+    ' or . = '
+      Add to cart
+    ')]</value>
+      <webElementGuid>d294f4f6-01b3-4288-a7e6-16d13a1d9a29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
